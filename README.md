@@ -1,1 +1,1 @@
-# IPGeoLookup
+# IPGeoLookup with GUI soon to have excel import support
