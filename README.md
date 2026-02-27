@@ -1,1 +1,1 @@
-# IPGeoLookup single lookup only currently
+# IPGeoLookup
